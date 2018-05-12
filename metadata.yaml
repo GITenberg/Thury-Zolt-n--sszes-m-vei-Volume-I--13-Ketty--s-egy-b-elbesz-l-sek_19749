@@ -1,0 +1,38 @@
+_repo: Thury-Zolt-n--sszes-m-vei-Volume-I--13-Ketty--s-egy-b-elbesz-l-sek_19749
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thury, Zoltán
+    alias: Thury, Zoltan
+    birthdate: 1870
+    deathdate: 1906
+    gutenberg_agent_id: '8861'
+    url: http://www.gutenberg.org/2009/agents/8861
+    wikipedia: http://hu.wikipedia.org/wiki/Thury_Zolt%C3%A1n
+description: ''
+gutenberg_issued: '2006-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19749'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Hungarian'
+tableOfContents: Ketty -- A sztrájk -- A sütemény -- Kőművesek -- Becsület -- Az egér
+  -- A legszegényebb vértanú -- A vacsora -- A miniszter vendégei -- A hatodik --
+  Az ezred -- A gyermek -- Kálvária -- Az igazság -- Anna -- A vasut -- Urak és parasztok
+  -- Este -- Éjjel -- Orvosságok -- Szerencsétlenség -- A botrány -- A két Glubovitz
+  -- A komponista -- A szerző -- Rubin urnál -- Az öregrendü ur -- A tisztességes
+  emberek -- Az utolsó órában -- Két boltos -- Tercsa néni gyermeket nevel -- Logika
+  -- Át kell dolgozni a könyvet -- Sötétség -- A király és a pipacs -- A farkas --
+  A két fiu -- Raffay tisztelendő ur -- A specziálista -- A Flórián filozófiája --
+  A lovak.
+title: "Thury Zoltán összes művei (1. kötet)\r\nKetty és egyéb elbeszélések"
+url: http://www.gutenberg.org/ebooks/19749
