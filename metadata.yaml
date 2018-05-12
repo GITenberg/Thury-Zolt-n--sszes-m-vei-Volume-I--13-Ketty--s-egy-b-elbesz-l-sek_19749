@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8861
     wikipedia: http://hu.wikipedia.org/wiki/Thury_Zolt%C3%A1n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19749#Thury-Zolt-n--sszes-m-vei-Volume-I--13-Ketty--s-egy-b-elbesz-l-sek
 gutenberg_issued: '2006-11-10'
 gutenberg_type: Text
 identifiers:
